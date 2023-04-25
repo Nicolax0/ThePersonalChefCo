@@ -1,0 +1,11 @@
+body {
+	margin: 0px;
+	font-family: sans-serif, Helvetica, sans-serif;
+}
+header {
+	width: 100%;
+	height: 60px;
+	background-color: #5680ef;
+	display: flex;
+	justify-content: space-between;
+}
